@@ -1,4 +1,4 @@
-# UI traversal script for macos
+# UI traversal script for macOS
 
 A powerful macOS accessibility script that monitors and captures UI changes in real-time, designed as part of the [ScreenPipe](https://github.com/screenpipe/screenpipe) project.
 
