@@ -59,6 +59,14 @@ This Swift script provides comprehensive UI monitoring capabilities by:
 - 🔄 Automatic state management
 - 🛡️ Memory-safe implementation
 
+## Rach out
+
+happy to chat
+i@m13v.com
+discord: https://discord.gg/AvGe8FJr
+Matthew Diakonov
+
+
 ## Contributing
 
 We welcome contributions! Feel free to:
