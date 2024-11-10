@@ -66,7 +66,6 @@ i@m13v.com
 discord: https://discord.gg/AvGe8FJr
 Matthew Diakonov
 
-
 ## Contributing
 
 We welcome contributions! Feel free to:
@@ -74,6 +73,9 @@ We welcome contributions! Feel free to:
 - Submit pull requests
 - Improve documentation
 - Share use cases and feedback
+
+## Next steps
+- set output location for the db
 
 ## License
 
