@@ -76,6 +76,7 @@ We welcome contributions! Feel free to:
 
 ## Next steps
 - set output location for the db
+- landing page
 
 ## License
 
