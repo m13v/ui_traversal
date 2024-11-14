@@ -74,9 +74,10 @@ We welcome contributions! Feel free to:
 - Improve documentation
 - Share use cases and feedback
 
-## Next steps
+## Next steps, to-do list
 - set output location for the db
 - landing page
+- cli interface
 
 ## License
 
