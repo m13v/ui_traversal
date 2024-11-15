@@ -78,6 +78,7 @@ We welcome contributions! Feel free to:
 - set output location for the db
 - landing page
 - cli interface
+- windows
 
 ## License
 
