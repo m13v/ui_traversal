@@ -79,6 +79,7 @@ We welcome contributions! Feel free to:
 - landing page
 - cli interface
 - windows
+- linux
 
 ## License
 
