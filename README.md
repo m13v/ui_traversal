@@ -80,6 +80,7 @@ We welcome contributions! Feel free to:
 - cli interface
 - windows
 - linux
+- implementation in Rust
 
 ## License
 
