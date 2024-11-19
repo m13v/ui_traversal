@@ -81,6 +81,7 @@ We welcome contributions! Feel free to:
 - windows
 - linux
 - implementation in Rust
+- app
 
 ## License
 
